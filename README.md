@@ -1,5 +1,5 @@
 
-[![MasterHead](https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
